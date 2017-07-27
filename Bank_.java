@@ -1,5 +1,8 @@
-package checkBookProject;
+//Adil Tahir 
+//Mike Bell
+//FinalProject
 
+package checkBookProject;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.io.*;
@@ -38,7 +41,7 @@ public class Bank_ {
 		
 
 		//System.out.println(Check_.checkReason);
-		Check_.printCheck();
+		Beef.printCheck();
 		n++;
 		}//while
 	    	
